@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+.title{
+    font-size: 60px;
+    border: 3px solid black;
+    display: inline-block;
+    padding: 30px;
+    
+    
+}
+
+.sub_title{
+    font-size: 30px;
+}
+
+.bodr{
+    border: 3px solid black;
+}
+

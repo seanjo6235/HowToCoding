@@ -1,0 +1,16 @@
+.title{
+    font-size: 60px;
+    border: 3px solid black;
+    display: inline-block;
+    padding: 30px;
+}
+
+.sub_title{
+    font-size: 30px;
+}
+
+details{
+    border: 3px solid black;
+}
+
+.
